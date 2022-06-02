@@ -1,5 +1,4 @@
-# thefunkymaze
-The Funky Maze
+# **The Funky Maze**
 This project is a Maze solver that also generate a new maze everytime the project is launched.
 Everytime the maze is regenerated, we made sure that the maze is solvable. This project use the
 algogen with the Manhattan distance. Here is how the it works, It will go trought every possible way
