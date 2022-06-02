@@ -25,4 +25,4 @@ Download and copy to root of minecraft server.
 Run the project with `py main.py`
 ## 4 - Enjoy !
 
-Presentation video available [here](https://www.youtube.com/watch?v=Om1x9R1SdxA)
+Presentation video available [here](https://youtu.be/631UXJkZlTE)
