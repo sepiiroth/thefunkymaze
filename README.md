@@ -1,4 +1,5 @@
 # <p align="center"> **The Funky Maze** </p>
+# <p align="center"> Rafael, Kyllian, Julien, Ruben </p>
 This project is a Maze solver that also generate a new maze everytime the project is launched.  
 Everytime the maze is generated, we made sure that the maze is solvable.  
   
